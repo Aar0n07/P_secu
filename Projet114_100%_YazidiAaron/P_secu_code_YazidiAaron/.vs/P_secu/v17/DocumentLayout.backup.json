@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2eme ann\u00E9e\\P_secu\\Projet114_80%_YazidiAaron\\P_secu_code_YazidiAaron\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C6E72D-326D-4C73-8DAD-B8E650A880B3}|P_secu\\P_secu.csproj|d:\\2eme ann\u00E9e\\p_secu\\projet114_80%_yazidiaaron\\p_secu_code_yazidiaaron\\p_secu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C6E72D-326D-4C73-8DAD-B8E650A880B3}|P_secu\\P_secu.csproj|solutionrelative:p_secu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\02ea4132-de5b-4b3b-9177-aca8279b13ba_P_114-main.zip.3ba\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\7dd8083d-e4cf-4215-854c-e49ed5f7a80d_P_114-main.zip.80d\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\02ea4132-de5b-4b3b-9177-aca8279b13ba_P_114-main.zip.3ba\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs",
+              "ToolTip": "C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\02ea4132-de5b-4b3b-9177-aca8279b13ba_P_114-main.zip.3ba\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs [Lecture seule]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:58:49.242Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\7dd8083d-e4cf-4215-854c-e49ed5f7a80d_P_114-main.zip.80d\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs",
+              "ToolTip": "C:\\Users\\ph72fqj\\AppData\\Local\\Temp\\7dd8083d-e4cf-4215-854c-e49ed5f7a80d_P_114-main.zip.80d\\P_114-main\\P_114_CouteauSuisse_DavidSottas\\P_114_CouteauSuisse_DavidSottas\\Program.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAAAF8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T08:48:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2eme ann\u00E9e\\P_secu\\Projet114_80%_YazidiAaron\\P_secu_code_YazidiAaron\\P_secu\\Program.cs",
+              "RelativeDocumentMoniker": "P_secu\\Program.cs",
+              "ToolTip": "D:\\2eme ann\u00E9e\\P_secu\\Projet114_80%_YazidiAaron\\P_secu_code_YazidiAaron\\P_secu\\Program.cs",
+              "RelativeToolTip": "P_secu\\Program.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T07:09:31.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
